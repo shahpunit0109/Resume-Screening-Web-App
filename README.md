@@ -1,6 +1,6 @@
 # Resume-Screening-Web-App
 
-1) Insatll all packages by running requirement.txt
+1) Install all packages by running requirement.txt
 
 2) Open the anaconda prompt.
 
